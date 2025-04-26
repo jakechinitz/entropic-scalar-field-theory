@@ -23,6 +23,8 @@ The following equations are central to the theory:
 3. **Time Dilation:**
    \[ t' = t \sqrt{1 - \frac{v^2}{c^2}} \]
 
+Unlike many entropic gravity approaches, this framework directly derives particle masses, cosmic acceleration, and galaxy rotation without fitted parameters, offering a predictive, falsifiable model. It aligns theoretical consistency with observational data, bridging quantum foundations and cosmology.
+
 ## Links
 
 - [Zenodo DOI](https://zenodo.org/records/15258980)
