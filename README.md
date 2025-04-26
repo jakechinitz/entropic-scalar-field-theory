@@ -1,5 +1,5 @@
 ## About this Project
-This project presents a self-contained scalar field theory where mass, gravity, time, and gauge structure emergy from local entanglement deficits relative to the vaccum. The field theory is fully mapped to Group Field Theory (GFT), Information-Complete QFT (ICQFT), and holographically embedded in AdS/CFT. 
+This project presents an original entropic scalar field theory, deriving gravitational and quantum dynamics from first-principles information theory. It includes full derivations, code notebooks for reproduction, and a published DOI-linked paper. The framework unifies gravity and quantum fields through entanglement entropy gradients, providing an alternative to dark matter, dark energy, and inflation models.
 
 # entropic-scalar-field-theory# Entropic Scalar Field Theory
 Gravity, Mass, and Time from Entanglement Deficit
