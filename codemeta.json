@@ -1,0 +1,28 @@
+
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "entropic-scalar-field-theory",
+  "version": "1.0.0",
+  "description": "Quantum-informational scalar-field framework deriving gravity, particle masses, cosmic acceleration, and time’s arrow from entanglement entropy.",
+  "license": "https://opensource.org/licenses/MIT",
+  "codeRepository": "https://github.com/jakechinitz/entropic-scalar-field-theory",
+  "datePublished": "2025-04-27",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Jacob",
+      "familyName": "Chinitz"
+      /* "identifier": "https://orcid.org/0000-0000-0000-0000"  ← add if you have one */
+    }
+  ],
+  "identifier": "10.5281/zenodo.1234567",  /* put your real Zenodo DOI here */
+  "programmingLanguage": ["Python", "Jupyter Notebook"],
+  "keywords": [
+    "quantum gravity",
+    "entanglement entropy",
+    "emergent gravity",
+    "dark matter alternative",
+    "cosmology"
+  ]
+}  
